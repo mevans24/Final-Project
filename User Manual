@@ -1,3 +1,6 @@
 Our program can be used to encrypt and decrypt a .txt file using a Caesar cipher. 
 When the application is opened, you can input into a textbox how many times you would like to shift the file, whether encrypting or decrypting. 
 Shifting will continue into ASCII, so special characters can be included in the shifting process. 
+There are two buttons, one labeled Encrypt and the other labeled Decrypt. When clicked, your computers downloads window will open, from which you can choose
+a .txt file to either encrypt or decrypt. 
+Once the file is clicked
