@@ -6,3 +6,4 @@ a .txt file to either encrypt or decrypt.
 Once the file is selected, the contents will be shifted according to your decided shift value and whether you chose encryption or decryption. 
 If you wish to decrypt a file that has already been encrypted, make sure that the shift value is the same as when the file was encrypted, and choose to decrypt the file. 
 Again, the contents of the file will be changed, and the user must use a .txt file. Any other file type will not work and the file will be left unreadable. 
+Make sure that you don't have the file you wish to encrypt/decrypt open while you use the program. 
