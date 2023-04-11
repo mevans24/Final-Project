@@ -3,4 +3,6 @@ When the application is opened, you can input into a textbox how many times you 
 Shifting will continue into ASCII, so special characters can be included in the shifting process. 
 There are two buttons, one labeled Encrypt and the other labeled Decrypt. When clicked, your computers downloads window will open, from which you can choose
 a .txt file to either encrypt or decrypt. 
-Once the file is clicked
+Once the file is selected, the contents will be shifted according to your decided shift value and whether you chose encryption or decryption. 
+If you wish to decrypt a file that has already been encrypted, make sure that the shift value is the same as when the file was encrypted, and choose to decrypt the file. 
+Again, the contents of the file will be changed, and the user must use a .txt file. Any other file type will not work and the file will be left unreadable. 
