@@ -1,3 +1,2 @@
-building upon the uml class diagram you submitted in the project proposal, provide more detailed information about your application 
-program design and implementation
-
+The start method is what holds all of the code for the project. Inside of there are a couple other classes with various 
+purposes, such as holding buttons and their attached code, or opening the Downloads window on your own computer.
